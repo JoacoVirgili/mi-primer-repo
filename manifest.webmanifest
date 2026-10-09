@@ -1,0 +1,19 @@
+{
+  "name": "FOB a Mercado Libre · Calculadora",
+  "short_name": "FOB a ML",
+  "description": "Calculadora rápida para evaluar importaciones y venta por Mercado Libre",
+  "lang": "es-AR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#0b1831",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
